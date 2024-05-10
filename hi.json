@@ -20,6 +20,8 @@
           "FutureMemberFeatures",
           "AdvancedEasing",
           "CameraObjects",
+          "InfiniteProjectSharing",
+          "CloudStorageHighTier",
           "LayerParenting"
 
         ],
@@ -40,7 +42,7 @@
 
         "details": null,
 
-        "expires": 3699389411000,
+        "expires": 13699389411000,
 
         "valid": true,
 
